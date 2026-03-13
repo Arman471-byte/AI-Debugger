@@ -13,7 +13,7 @@ Debug and explain code using a **locally running LLM**.
 
 ## Demo
 
-![Demo](preview.mp4)
+![Demo](Preview.mp4)
 
 This application allows developers to analyze, debug, and explain code
 using a **locally running Large Language Model (LLM)**.
