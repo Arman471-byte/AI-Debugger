@@ -12,7 +12,7 @@ Debug and explain code using a **locally running LLM**.
 ---
 
 ## Demo
-
+![Demo](Screenshot.png)
 ![Demo](Preview.mp4)
 
 This application allows developers to analyze, debug, and explain code
