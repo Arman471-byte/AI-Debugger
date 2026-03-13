@@ -1,7 +1,19 @@
 # AI Debugger (Local LLM Code Assistant)
 
-A lightweight **AI-powered code debugging tool** built with **Python,
-Tkinter, and Ollama**.
+AI-powered local code debugging tool built with **Python, Tkinter, and Ollama**.
+
+Debug and explain code using a **locally running LLM**.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![LLM](https://img.shields.io/badge/LLM-Ollama-green)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+---
+
+## Demo
+
+![Demo](preview.mp4)
 
 This application allows developers to analyze, debug, and explain code
 using a **locally running Large Language Model (LLM)**.
@@ -12,18 +24,6 @@ The project demonstrates how to integrate:
 -   Local AI models
 -   Streaming AI responses
 -   Code analysis tools
-
-------------------------------------------------------------------------
-
-# Preview
-
-Add your preview recording in this repository as:
-
-    preview.mp4
-
-Example:
-
-![Demo](preview.mp4)
 
 ------------------------------------------------------------------------
 
