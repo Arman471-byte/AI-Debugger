@@ -15,6 +15,8 @@ Debug and explain code using a **locally running LLM**.
 ![Demo](Screenshot.png)
 ![Demo](Preview.mp4)
 
+![Release](https://img.shields.io/github/v/release/Arman471-byte/AI-Debugger)
+
 This application allows developers to analyze, debug, and explain code
 using a **locally running Large Language Model (LLM)**.
 
