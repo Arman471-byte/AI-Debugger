@@ -8,14 +8,13 @@ Debug and explain code using a **locally running LLM**.
 ![LLM](https://img.shields.io/badge/LLM-Ollama-green)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Release](https://img.shields.io/github/v/release/Arman471-byte/AI-Debugger)
 
 ---
 
 ## Demo
 ![Demo](Screenshot.png)
 ![Demo](Preview.mp4)
-
-![Release](https://img.shields.io/github/v/release/Arman471-byte/AI-Debugger)
 
 This application allows developers to analyze, debug, and explain code
 using a **locally running Large Language Model (LLM)**.
